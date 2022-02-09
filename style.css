@@ -24,5 +24,8 @@ a:hover {
   font-size: 30px;
   background-color: #442615;
   text-align: center;
-  line-height: 2.5;
+  line-height: 3;
+  border: 10px solid #442615;
+  border-radius: 50px;
+  padding: 5px;
 }
