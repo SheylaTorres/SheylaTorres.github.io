@@ -28,4 +28,6 @@ a:hover {
   border: 10px solid #442615;
   border-radius: 50px;
   padding: 5px;
+  display: block;
+  min-width: 200px;
 }
