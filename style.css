@@ -1,3 +1,14 @@
+body {
+  background: #f5bba6;
+}
+
 h1 {
-  color: red;
+  color: #375443;
+  font-size: 40px;
+  font-family: 'american typewriter';
+}
+
+a {
+  color: #375443;
+
 }
