@@ -1,18 +1,28 @@
+* {
+  text-align: center;
+}
+
 body {
-  background-image: url('https://cdn.glitch.global/4a801a9e-2974-474d-9539-0e496e0ffb8a/Untitled_Artwork%204.jpg?v=1644367491756')
+  background-image: url("https://cdn.glitch.global/4a801a9e-2974-474d-9539-0e496e0ffb8a/Untitled_Artwork%204.jpg?v=1644367491756");
 }
 
 h1 {
-  color: #ffffff;
-  font-size: 40px;
-  font-family: 'american typewriter';
+  color: #fedcbd;
+  font-size: 70px;
+  font-family: "american typewriter";
   background-color: #442615;
 }
 
-a {
-  color: #ffffff;
 
+a:hover {
+  color: #84b8a4;
 }
+
 .link {
-  background-color: 3442615;
+  font-family:
+  color: #feece7;
+  font-size: 30px;
+  background-color: #442615;
+  text-align: center;
+  ;
 }
