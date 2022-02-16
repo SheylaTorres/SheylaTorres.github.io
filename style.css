@@ -14,6 +14,9 @@ h1 {
   padding: 20px;
 }
 
+a{
+  transition: color .75s ease;
+}
 
 a:hover {
   color: #84b8a4;
