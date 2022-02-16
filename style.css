@@ -4,6 +4,7 @@
 
 body {
   background-image: url("https://cdn.glitch.global/4a801a9e-2974-474d-9539-0e496e0ffb8a/Untitled_Artwork%204.jpg?v=1644367491756");
+  overflow: hidden;
 }
 
 h1 {
