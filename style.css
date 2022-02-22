@@ -21,6 +21,10 @@ a{
 a:hover {
   color: #84b8a4;
 }
+a:focus {
+  color: #84b8a4;
+  border: 20
+}
 
 .link {
   font-family: 'Inconsolata', monospace;
