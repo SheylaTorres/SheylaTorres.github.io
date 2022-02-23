@@ -9,25 +9,25 @@ body {
 h1 {
   color: #fedcbd;
   font-size: 70px;
-  font-family: 'Inconsolata', monospace;
+  font-family: "Inconsolata", monospace;
   background-color: #442615;
   padding: 20px;
 }
 
-a{
-  transition: color .75s ease;
+a {
+  transition: color 0.75s ease;
 }
 
 a:hover {
   color: #84b8a4;
 }
+
 a:focus {
   color: #84b8a4;
-  border: 20
 }
 
 .link {
-  font-family: 'Inconsolata', monospace;
+  font-family: "Inconsolata", monospace;
   color: #fedcbd;
   font-size: 30px;
   background-color: #442615;
@@ -41,7 +41,7 @@ a:focus {
 }
 nav {
   text-align: center;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
