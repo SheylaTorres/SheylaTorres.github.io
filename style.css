@@ -1,3 +1,11 @@
+/* variables */
+:root {
+  --green: #84b8a4;
+  --beige: #fedcbd;
+  --brown: #442615;
+}
+
+
 * {
   text-align: center;
 }
@@ -7,10 +15,10 @@ body {
 }
 
 h1 {
-  color: #fedcbd;
+  color: var(--beige);
   font-size: 70px;
   font-family: "Inconsolata", monospace;
-  background-color: #442615;
+  background-color: var(--brown);
   padding: 20px;
 }
 
@@ -19,19 +27,19 @@ a {
 }
 
 a:hover {
-  color: #84b8a4;
+  color: var(--green);
 }
 
 a:focus {
-  color: #84b8a4;
-  border: 5px dotted #84b8a4;
+  color: var(--green);
+  border: 5px dotted var(--green);
 }
 
 .link {
   font-family: "Inconsolata", monospace;
-  color: #fedcbd;
+  color: var(--beige);
   font-size: 30px;
-  background-color: #442615;
+  background-color: var(--brown);
   text-align: center;
   border-radius: 50px;
   padding: 10px;
