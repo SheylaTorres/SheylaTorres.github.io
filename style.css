@@ -3,6 +3,7 @@
   --green: #84b8a4;
   --beige: #fedcbd;
   --brown: #442615;
+  --type: "Inconsolata", monospace;
 }
 
 
@@ -17,7 +18,7 @@ body {
 h1 {
   color: var(--beige);
   font-size: 70px;
-  font-family: "Inconsolata", monospace;
+  font-family: var(--type);
   background-color: var(--brown);
   padding: 20px;
 }
@@ -36,7 +37,7 @@ a:focus {
 }
 
 .link {
-  font-family: "Inconsolata", monospace;
+  font-family: var(--type);
   color: var(--beige);
   font-size: 30px;
   background-color: var(--brown);
