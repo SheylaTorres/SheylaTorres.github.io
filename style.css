@@ -24,6 +24,7 @@ a:hover {
 
 a:focus {
   color: #84b8a4;
+  border: 5px dotted #84b8a4;
 }
 
 .link {
