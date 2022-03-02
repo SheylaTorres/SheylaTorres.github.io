@@ -54,3 +54,8 @@ nav {
   flex-direction: column;
   align-items: center;
 }
+
+p {
+  background-color: var(--brown);
+  color: var(--beige)
+}
