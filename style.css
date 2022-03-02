@@ -54,10 +54,3 @@ nav {
   flex-direction: column;
   align-items: center;
 }
-
-p {
-  color: var(--beige);
-  height: 100vh;
-  display: flex;
-  align-items: flex-end;
-}
