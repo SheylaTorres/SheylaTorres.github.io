@@ -56,6 +56,8 @@ nav {
 }
 
 p {
-  background-color: var(--brown);
-  color: var(--beige)
+  color: var(--beige);
+  height: 100vh;
+  display: flex;
+  align-items: flex-end;
 }
