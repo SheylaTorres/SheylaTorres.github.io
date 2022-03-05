@@ -12,6 +12,11 @@
 
 body {
   background-image: url("https://cdn.glitch.global/4a801a9e-2974-474d-9539-0e496e0ffb8a/Untitled_Artwork%204.jpg?v=1644367491756");
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  justify-content: space-between;
+  margin: 0;
 }
 
 h1 {
@@ -55,3 +60,15 @@ nav {
   align-items: center;
 }
 
+footer p {
+  background-color: var(--brown);
+  color: var(--beige);
+  display: block;
+  width: 50%;
+  min-width: 450px;
+  max-width: 400px;
+  border-radius: 15px;
+  margin: 10px auto;
+  padding: 5px;
+  font-family: var(--type);
+}
